@@ -1,0 +1,38 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3{
+    font-size: 48px;
+    color: brown;
+    background-color: bisque;
+}
+
+p{
+    font-size: 32px;
+}
+
+.ulist{
+    font-size: 32px;
+    color: blueviolet;
+    background-color:  rgb(137, 221, 97);
+}
+
+#olist{
+    font-size: 32px;
+    font-style: italic;
+    font-style: bold;
+    background-color: azure;
+}

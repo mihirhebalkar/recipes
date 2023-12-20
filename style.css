@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    background-color: rgb(238, 203, 203);
+    text-align: center;
+    font-size: 48px;
+}
+
+.image{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 500px;
+    width: auto;
+}
+
+#list{
+    font-size: 32px;
+    text-align: center;
+    color: black;
+}
